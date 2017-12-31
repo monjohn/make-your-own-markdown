@@ -3,7 +3,7 @@
 
 ## Description
 
-The example project for [this blog post]().
+The example project for [this blog post](https://monjohn.github.io//make-your-own-markdown/).
 
 [Jump straight to the code](tree/master/make-your-own-markdown/core.clj)
 
